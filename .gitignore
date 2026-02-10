@@ -1,6 +1,6 @@
 __pycache__/
 *.pyc
-venv/
+mfbp_venv/
 *.segy
 *.sgy
 *.su
