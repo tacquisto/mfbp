@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+venv/
+*.segy
+*.sgy
+*.su
+*.mat
+*.npy
+data/
+*.png
+*.pdf
+.DS_Store
